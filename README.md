@@ -31,12 +31,12 @@ The data that has been supplied is data from 5,366 septic patients in the [MIMIC
 * **Russell Jeter** - *AI Clinician Implementation* - [SwankyFrobenius](https://github.com/SwankyFrobenius)
 
 The rest of the authors contributed to the post at point85 and were heavily involved in the critical analysis of the original work.
-* **Christopher Josef** 
+* **Christopher Josef** - [aegis20](https://github.com/aegis20)
 * **Shamim Nemati**  - [shamimNemati](https://github.com/shamimNemati)
 * **Supreeth Shashikumar** - [supreethprajwal](https://github.com/supreethprajwal)
 
 ## Contact
-If you have any questions or concerns, please direct them to admin@point85.ai.
+If you have any questions or concerns, please direct them to [admin@point85.ai](admin@point85.ai).
 ## License
 
 This project is licensed and shared under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) This means reproduction of the work is allowed provided that it is for non-commercial applications and the creating authors are cited.
