@@ -36,6 +36,7 @@ The rest of the authors contributed to the post at point85 and were heavily invo
 * **Supreeth Shashikumar** - [supreethprajwal](https://github.com/supreethprajwal)
 
 To cite this work, please cite the arXiv publication:
+
 R. Jeter, C. Josef, S. Shashikumar, and S. Nemati, “Does the "Artificial Intelligence Clinician" learn optimal treatment strategies for sepsis in intensive care?,” [arXiv:1902.03271 [cs.AI]](https://arxiv.org/abs/1902.03271), January 2019.
 
 ## Contact
