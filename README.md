@@ -37,7 +37,7 @@ The rest of the authors contributed to the post at point85 and were heavily invo
 
 To cite this work, please cite the arXiv publication:
 
-R. Jeter, C. Josef, S. Shashikumar, and S. Nemati, “Does the "Artificial Intelligence Clinician" learn optimal treatment strategies for sepsis in intensive care?,” [arXiv:1902.03271 [cs.AI]](https://arxiv.org/abs/1902.03271), January 2019.
+R. Jeter, C. Josef, S. Shashikumar, and S. Nemati, “Does the "Artificial Intelligence Clinician" learn optimal treatment strategies for sepsis in intensive care?,” [arXiv:1902.03271 [cs.AI]](https://arxiv.org/abs/1902.03271), February 2019.
 
 ## Contact
 If you have any questions or concerns, please direct them to [admin@point85.ai](admin@point85.ai).
